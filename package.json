@@ -1,0 +1,14 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "author": "Tim Dorr <git@timdorr.com>",
+  "repository": "github:timdorr/code-challenge",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
